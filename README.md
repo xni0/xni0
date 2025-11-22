@@ -1,6 +1,6 @@
-
+```javascript
 const luciProfile = {
-    name: "[Luci]",
+    name: "Luci",
     role: "Web Development Student 💻",
     education: "Higher Technician in Web Application Development (DAW)",
     code: ["Javascript", "Java", "Python"],
@@ -10,3 +10,4 @@ const luciProfile = {
 };
 
 console.log("Ready to code!");
+```
