@@ -1,16 +1,12 @@
-## Hi there 👋
 
-<!--
-**xni0/xni0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+const luciProfile = {
+    name: "[Luci]",
+    role: "Web Development Student 💻",
+    education: "Higher Technician in Web Application Development (DAW)",
+    code: ["Javascript", "Java", "Python"],
+    tools: ["React", "Vite", "Git", "MySQL"],
+    challenge: "Turning caffeine into clean code ☕",
+    currentGoal: "Landing my first Junior Developer role"
+};
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+console.log("Ready to code!");
