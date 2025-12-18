@@ -11,4 +11,4 @@ const luciProfile = {
 
 console.log("Ready to code!");
 ```
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="de55e7c3-4d25-4ba3-bd38-7155e55e5b3a" data-share-badge-host="https://www.credly.com"></div>
+
